@@ -1,12 +1,11 @@
-function Header() {
-  return <h1>Jack Schwabe</h1>;
-}
-
+import Header from "./Components/Header";
+import Footer from "./Components/Footer";
 function App() {
   return (
-    <layout className="sidebar">
+    <div>
       <Header />
-    </layout>
+      <Footer />
+    </div>
   );
 }
 
