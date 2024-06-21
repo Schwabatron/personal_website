@@ -3,8 +3,12 @@ import Footer from "./Components/Footer";
 function App() {
   return (
     <div>
-      <Header />
-      <Footer />
+      <div className="d-flex flex-column min-vh-100">
+        <Header />
+      </div>
+      <div>
+        <Footer />
+      </div>
     </div>
   );
 }
