@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer className="text-center mt-auto p-3 bg-light">
+    <footer className=" text-light text-center mt-auto p-3 bg-dark">
       Designed and Made by Jack Schwabe
     </footer>
   );
