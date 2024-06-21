@@ -1,5 +1,9 @@
 function Footer() {
-  return <footer>Designed and made by Jack Schwabe</footer>;
+  return (
+    <footer className="text-center mt-auto p-3 bg-light">
+      Designed and Made by Jack Schwabe
+    </footer>
+  );
 }
 
 export default Footer;
