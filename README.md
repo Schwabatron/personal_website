@@ -1,3 +1,5 @@
+Hello, My name is Jack Schwabe and im using this opportunity to make my own website using react. I've always wanted to learn React and this seems like the perfect time to learn. I want to showcase my skills, the learning process, and have a website to put on my resume. Thank you
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
