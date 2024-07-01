@@ -1,3 +1,28 @@
 h1 {
   font-size: 2rem;
 }
+
+.custom-header {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.section-container {
+  padding: 20px 0;
+  border-bottom: 2px solid black;
+}
+
+.custom-header {
+  margin-top: 0;
+  margin-bottom: 10px;
+  border-bottom: 2px solid black;
+  padding-bottom: 10px;
+}
+
+.section-container p {
+  margin: 0;
+}
+
+p {
+  font-size: 20px;
+}
