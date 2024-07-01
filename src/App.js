@@ -8,7 +8,7 @@ function App() {
       <div className="d-flex flex-column min-vh-100">
         <Header />
       </div>
-      <Section name={"About me"} content={""} />
+      <Section name={"About me"} content={"test test"} />
       <Section name={"Projects"} content={"test test"} />
       <Section name={"Contact Me"} content={"test test"} />
       <div>
